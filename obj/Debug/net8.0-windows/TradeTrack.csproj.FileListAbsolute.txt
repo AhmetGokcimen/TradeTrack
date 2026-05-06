@@ -1,0 +1,7 @@
+C:\Users\agokc\source\repos\TradeTrack\TradeTrack\obj\Debug\net8.0-windows\TradeTrack.csproj.AssemblyReference.cache
+C:\Users\agokc\source\repos\TradeTrack\TradeTrack\obj\Debug\net8.0-windows\TradeTrackPro.Form1.resources
+C:\Users\agokc\source\repos\TradeTrack\TradeTrack\obj\Debug\net8.0-windows\TradeTrack.csproj.GenerateResource.cache
+C:\Users\agokc\source\repos\TradeTrack\TradeTrack\obj\Debug\net8.0-windows\TradeTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agokc\source\repos\TradeTrack\TradeTrack\obj\Debug\net8.0-windows\TradeTrack.AssemblyInfoInputs.cache
+C:\Users\agokc\source\repos\TradeTrack\TradeTrack\obj\Debug\net8.0-windows\TradeTrack.AssemblyInfo.cs
+C:\Users\agokc\source\repos\TradeTrack\TradeTrack\obj\Debug\net8.0-windows\TradeTrack.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>görsel_2025-12-10_135646580-removebg-preview.ico</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="D:\İndirilenler\görsel_2025-12-10_135646580-removebg-preview.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+    <PackageReference Include="System.Windows.Forms.DataVisualization" Version="1.0.0-prerelease.20110.1" />
+  </ItemGroup>
+
+</Project>

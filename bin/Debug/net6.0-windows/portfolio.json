@@ -1,0 +1,14 @@
+[
+  {
+    "Symbol": "AAPL",
+    "Company": "Apple Inc",
+    "Sector": "Technology",
+    "Quantity": 1,
+    "BuyPrice": 322.0,
+    "CurrentPrice": 277.4001,
+    "TargetPrice": 0.0,
+    "AlertSent": false,
+    "ProfitLoss": -44.5999,
+    "ProfitLossPercent": -13.850900621118012422360248450
+  }
+]

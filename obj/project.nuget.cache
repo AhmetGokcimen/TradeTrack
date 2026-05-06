@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "68tI+Mg2uC0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agokc\\source\\repos\\TradeTrack\\TradeTrack\\TradeTrackPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agokc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\agokc\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\agokc\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\agokc\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\agokc\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\agokc\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\agokc\\.nuget\\packages\\system.windows.forms.datavisualization\\1.0.0-prerelease.20110.1\\system.windows.forms.datavisualization.1.0.0-prerelease.20110.1.nupkg.sha512"
+  ],
+  "logs": []
+}
